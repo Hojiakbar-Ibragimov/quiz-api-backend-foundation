@@ -59,6 +59,7 @@ python manage.py runserver
 - Authentication
 - JWT
 - Permissions
+- PostgreSQL
 - Tests
 - Docker
 - Deployment
