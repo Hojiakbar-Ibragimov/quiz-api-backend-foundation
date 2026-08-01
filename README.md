@@ -52,6 +52,8 @@ python manage.py runserver
 
 - Backend foundation
 - REST API
+- Demo SQLite database
+
 ## Upcoming Stages (production-level)
 
 - Authentication
