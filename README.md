@@ -27,6 +27,27 @@ A backend foundation project built with django to practice REST API design, back
 - Sessions
 - Questions
 
+## Usage
+
+```bash
+git clone https://github.com/Hojiakbar-Ibragimov/quiz-api-backend-foundation.git
+cd quiz-api-backend-foundation
+
+python -m venv venv 
+
+venv/Scripts/activate
+
+pip install -r requirements.txt
+```
+
+1. Copy `.env.example` to `.env`
+2. Set your `SECRET_KEY`
+3. Start the development server:
+
+```bash
+python manage.py runserver
+```
+
 ## Current Stage (foundation api version)
 
 - Backend foundation
