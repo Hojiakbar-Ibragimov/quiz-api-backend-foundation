@@ -56,6 +56,7 @@ python manage.py runserver
 
 ## Upcoming Stages (production-level)
 
+- Leaderboard
 - Authentication
 - JWT
 - Permissions
